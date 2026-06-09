@@ -16,7 +16,8 @@ $HMLN represents this fundamental energy unit. It is a digital conduit for the v
 - **Ticker:** $HMLN
 - **Network:** TON (The Open Network)
 - **Tax:** 3% Buy / 3% Sell (These transaction fees are algorithmically designed to fuel ecosystem development and energy distribution initiatives.)
-- **Liquidity:** 100% Burned/Locked (Ensuring absolute stability and trust in the energy exchange protocol.)
+- **Liquidity:** Locked (Ensuring absolute stability and trust in the energy exchange protocol.)
+- **Energy Reserve:** 80% of tokens are held in a strategic reserve, gradually introduced into circulation to fuel ecosystem development and maintain a balanced energy flow.
 - **Contract Ownership:** Renounced (Decentralizing the flow of energy, preventing central manipulation.)
 
 ## 🚀 Vision
