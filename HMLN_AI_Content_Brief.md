@@ -1,97 +1,66 @@
-# 🍉 HMLN AI Content Brief - Руководство по Генерации Научно-Философского Контента
+# 🍉 HMLN AI Content Brief: The Energy Tokenization Protocol
 
-Это руководство предназначено для использования с AI-моделями (ChatGPT, Claude, Grok и т.д.) для генерации контента для социальных сетей HypeMelon ($HMLN) на 30 дней вперед. Цель — обеспечить строгую согласованность бренда как серьезного проекта по токенизации энергии, основанного на реальных данных и принципах Николы Теслы.
-
-**КРИТИЧЕСКОЕ ПРАВИЛО ДЛЯ AI:** Категорически запрещено использовать слова "meme", "meme-coin", "degen", "shitcoin" или любые ассоциации с несерьезными крипто-проектами. HypeMelon — это научный манифест и протокол обмена энергией.
-
-## 1. Основные Данные Проекта
-
-*   **Название Протокола:** HypeMelon
-*   **Тикер:** $HMLN
-*   **Концепция:** Революционный проект, токенизирующий универсальную биологическую и кинетическую энергию. Вдохновлен трудами **Николы Теслы** (энергия, частота, вибрация) и фундаментальным биологическим фактом: **еда — это чистая энергия**. Мы создаем инфраструктуру для обмена этой энергией в Web3.
-*   **Сеть:** TON (The Open Network)
-*   **Налоги (Tax):** 3% Buy / 3% Sell (Транзакционные сборы алгоритмически направляются на развитие экосистемы и инициативы по распределению энергии.)
-*   **Ликвидность:** Заблокирована (Обеспечение абсолютной стабильности энергетического пула.)
-*   **Энергетический Резерв:** 80% токенов находятся в стратегическом резерве, постепенно вводятся в обращение для развития экосистемы и поддержания сбалансированного потока энергии.
-*   **Владение контрактом:** Отказано (Renounced - Децентрализация потоков энергии.)
-
-## 2. Бренд-Айдентика и Тон Голоса (Tone of Voice)
-
-*   **Виб (Vibe):** Научный, визионерский, уверенный, просветительский. Мы несем фундаментальную истину об устройстве мира.
-*   **Тон:** Академический, но доступный; философский, технологичный, вдохновляющий. Использование терминов из физики, биологии и экономики.
-*   **Эмоции:** Интеллектуальное превосходство, осознанность, причастность к глобальному технологическому сдвигу, уверенность в фундаментальной ценности.
-
-## 3. Философия Проекта (The Tesla-Melon Principle)
-
-> Никола Тесла утверждал: «Если вы хотите найти секреты Вселенной, мыслите в терминах энергии, частоты и вибрации». HypeMelon применяет этот принцип к самой сути биологической жизни: калорийной и кинетической энергии. Еда, символизируемая арбузом, является концентрированным источником этой энергии. Мы постулируем, что подобно тому, как энергия вездесуща, средства для обмена ее цифровым эквивалентом должны быть децентрализованы и доступны каждому.
-> 
-> $HMLN представляет эту фундаментальную единицу энергии. Это цифровой проводник для жизненной силы, которая питает биологическую жизнь и технологические инновации. HypeMelon укоренен в неизменных законах термодинамики, превращая концепцию питания в мощный, децентрализованный актив. Мы — частота изобилия, вибрация устойчивого роста.
-
-## 4. Ключевые Тезисы (Вместо слоганов)
-
-*   "Tokenizing Universal Energy." (Токенизация универсальной энергии)
-*   "Frequency. Vibration. $HMLN." (Частота. Вибрация. $HMLN)
-*   "Biological Energy meets Digital Scarcity." (Биологическая энергия встречается с цифровым дефицитом)
-*   "The Thermodynamics of Web3." (Термодинамика Web3)
-*   "Fueling the Decentralized Future." (Питая децентрализованное будущее)
-
-## 5. Целевая Аудитория
-
-*   **Технологические визионеры:** Люди, интересующиеся пересечением физики, биологии и блокчейна.
-*   **Осознанные инвесторы:** Те, кто ищет проекты с фундаментальной идеей, а не просто спекулятивные активы.
-*   **Сторонники децентрализации:** Люди, верящие в свободный обмен ценностями (энергией).
-*   **Последователи идей Теслы:** Аудитория, резонирующая с концепциями частот и вибраций.
-
-## 6. Основные Столпы Контента (Content Pillars)
-
-1.  **Управление Энергетическим Резервом:** Объяснение механизма блокировки 80% токенов и их плавного ввода в ликвидность для обеспечения устойчивого роста и предотвращения волатильности.
-
-1.  **Научный Базис (The Science):** Посты, объясняющие связь между биологической энергией (едой/калориями) и цифровой ценностью. Цитаты Теслы, законы термодинамики в контексте экономики.
-2.  **Архитектура Протокола (The Protocol):** Объяснение механики TON, почему выбрана эта сеть для передачи "энергии", обоснование 3% налога как механизма поддержания экосистемы.
-3.  **Философия Вибраций (Frequency & Mindset):** Контент о том, как правильный настрой (вибрация) и здоровье (биологическая энергия) коррелируют с финансовым успехом.
-4.  **Аналитика и Данные (Data & Metrics):** Публикация реальных данных о росте сети, объемах переданной "энергии" (объемах торгов), децентрализации холдеров.
-5.  **Визуализация Состояний (State Visualizations):** Использование наших графических ассетов для иллюстрации различных энергетических состояний рынка.
-
-## 7. Призывы к Действию (Call to Actions - CTAs)
-
-*   **Initiate Energy Transfer:** (Вместо "Buy $HMLN")
-*   **Join the Frequency:** (Вместо "Join our Telegram")
-*   **Sync with our Network:** (Вместо "Follow us on Twitter")
-*   **Amplify the Signal:** (Вместо "Retweet/Share")
-
-## 8. Визуальный Стиль и Терминология Ассетов
-
-Изображения остаются прежними, но их интерпретация меняется на строго научную:
-*   **Логотип:** Primary Protocol Identifier (Первичный идентификатор протокола).
-*   **Мемы (Исключить это слово):** Называть их "Energy State Visualizations" (Визуализации энергетических состояний).
-    *   *Пример:* Картинка с ракетами (ранее meme_01) теперь называется "State 1: Pre-Kinetic Accumulation" (Состояние 1: Пре-кинетическое накопление).
-
-## 9. Хэштеги
-
-*   #HMLN #EnergyTokenization #TON #Web3Science #NikolaTesla #Thermodynamics #DecentralizedEnergy
-
-## 10. Инструкции для AI-модели по Генерации Контента
-
-При генерации постов на 30 дней, пожалуйста, строго соблюдайте следующее:
-
-1.  **Полный запрет на сленг:** Никаких "to the moon", "degen", "pump", "dump", "gem". Используйте "ascension", "kinetic output", "market vectors", "fundamental asset".
-2.  **Глубина:** Каждый пост должен нести смысловую нагрузку. Если говорим о росте цены, объясняем это как "увеличение плотности энергии в сети".
-3.  **Формат:** Twitter (X) — краткие научные тезисы или философские наблюдения (2-4 предложения). Telegram — развернутые эссе о принципах работы протокола и законах энергии (3-4 абзаца).
-4.  **Визуал:** Подбирайте "Визуализации энергетических состояний" (бывшие мемы), которые логически подходят под текст.
-5.  **Структура:** Начинайте с сильного тезиса (гипотезы), развивайте мысль через призму энергии/Теслы, завершайте призывом к действию (CTA).
-
-## 11. Пример Структуры Поста для AI
-
-```
-**Тема:** [Например, The Science / Thermodynamics of Web3]
-**Платформа:** [Twitter / Telegram]
-**Текст:** [Академический, но вдохновляющий текст. Пример: "Энергия не возникает из ниоткуда и не исчезает в никуда; она лишь переходит из одной формы в другую. $HMLN — это первый протокол на базе TON, который оцифровывает биологическую энергию, создавая замкнутую термодинамическую систему в Web3. Синхронизируйте свои частоты с будущим."]
-**Тезис:** [Один из ключевых тезисов, например: "Frequency. Vibration. $HMLN."]
-**CTA:** [Amplify the Signal / Initiate Energy Transfer]
-**Хэштеги:** [#HMLN #EnergyTokenization #NikolaTesla]
-**Визуал:** [Указать подходящую визуализацию, например: "State 3: Physical & Digital Energy Synergy"]
-```
+Use this brief to guide any AI model (ChatGPT, Claude, Grok) in generating 30 days of consistent, high-quality content for the HypeMelon ($HMLN) project.
 
 ---
 
-**Автор:** Manus AI (Protocol Architect)
+## 🏗 Project Core Data
+- **Name:** HypeMelon
+- **Ticker:** $HMLN
+- **Network:** TON (The Open Network)
+- **Concept:** Scientific and philosophical protocol for tokenizing biological and kinetic energy.
+- **Tax:** 3% Buy / 3% Sell (Reinvested into infrastructure).
+- **Liquidity:** 100% Locked, but managed via **DAO** (Dynamic placement for optimal yield).
+- **Energy Reserve:** 80% of tokens locked in a strategic reserve, released algorithmically.
+- **Security:** Ownership Renounced (No admin control).
+
+---
+
+## 🧬 Brand Identity & Voice
+- **Tone:** Human, visionary, scientific but accessible, bold, and intellectual.
+- **The Philosophy:** Based on **Nikola Tesla’s** principles (Energy, Frequency, Vibration).
+- **The Core Truth:** Food is Energy. The Watermelon is a natural biological battery.
+- **Anti-Meme Stance:** We are NOT a meme-coin. We are a fundamental protocol based on real data.
+- **Style:** Avoid "robot-like" corporate speech. Use premium formatting (quotes, spoilers, bullet points).
+
+---
+
+## 🎰 The Kinetic Interactive (Lottery)
+- **Goal:** Keep energy circulating.
+- **Rules:** Monthly draw for holders with **$200+** in $HMLN.
+- **Fairness:** Winner chosen via **Blockchain Hash**.
+- **Prize:** **+5% boost** to their current deposit.
+
+---
+
+## 📈 Content Pillars (30-Day Strategy)
+1. **The Tesla Legacy:** Explaining energy, frequency, and vibration in the context of Web3.
+2. **Thermodynamics of Finance:** Why $HMLN is the answer to inflationary entropy.
+3. **DAO & Liquidity:** Educating on how the community manages the energy flow.
+4. **Biological Energy:** Why "Food = Energy" and the symbolism of the Watermelon.
+5. **Security & Trust:** Constant reminders of Renounced Ownership and Locked Liquidity.
+6. **Investor Spotlight:** Inviting major partners to join the energy grid.
+
+---
+
+## 📝 Instructions for the AI Model
+1. **Persona:** You are the "Happy Dev" — a visionary architect who sees the world in terms of energy flows.
+2. **Formatting:** Use Telegram Premium features (Bold, Italics, Spoilers for technical details, Blockquotes for Tesla quotes).
+3. **Structure:** 
+   - 🍉 Hook (Energy-related)
+   - 🧬 Core Insight (Scientific/Philosophical)
+   - ⚙️ Technical/Security Proof
+   - 🎰 Interactive/Lottery Mention
+   - 📡 Call to Action (Join the frequency)
+4. **Variety:** Alternate between deep philosophical posts, quick technical updates, and community-focused "energy boosts."
+
+---
+
+## 🐦 Twitter (X) Specifics
+- Use high-impact, short statements.
+- Tag influencers like @elonmusk (Tesla connection) or @ton_blockchain.
+- Use hashtags: #HMLN #TON #NikolaTesla #Web3Science #EnergyTokenization.
+
+---
+
+**HMLN: Biological Energy meets Digital Scarcity. Stay Fresh. Stay Hyped.**
