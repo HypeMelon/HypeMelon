@@ -42,6 +42,25 @@ HMLN is not a joke; it is a manifestation of physical laws in a digital world. C
 
 ### 🎨 Visual Data Manifestations
 
+#### Nikola Tesla: Visualizing the Energy Protocol
+
+| Tesla's Energy Blueprint | HMLN Energy Core Manifestation |
+| :---: | :---: |
+| ![Tesla's Energy Blueprint](assets/tesla/tesla_hypemelon_energy_blueprint_lab.png) | ![HMLN Energy Core Manifestation](assets/tesla/tesla_hmln_energy_core_manifestation.png) |
+| *Nikola Tesla in a laboratory setting with a holographic watermelon energy blueprint and HypeMelon power core.* | *Tesla-like figure holding a glowing watermelon energy core, surrounded by HMLN Energy branding and growth charts.* |
+
+| Welcome to HMLN Energy | Tesla's Green Lightning: Market Expansion |
+| :---: | :---: |
+| ![Welcome to HMLN Energy](assets/tesla/tesla_hmln_welcome_protocol_square.png) | ![Tesla's Green Lightning: Market Expansion](assets/tesla/tesla_green_lightning_market_expansion.png) |
+| *Square-format welcome visual for HMLN Energy, featuring a central glowing watermelon reactor and core principles.* | *Tesla-themed green lightning visual for market expansion, with multiple floating watermelon spheres and bullish branding.* |
+
+| Tesla vs. The Bear Market: Energy Defense |
+| :---: |
+| ![Tesla vs. The Bear Market: Energy Defense](assets/tesla/tesla_bear_market_energy_defense.png) |
+| *Nikola Tesla confronting the bear market, with HypeMelon energy core and bullish candles, symbolizing defense against FUD and fear.* |
+
+#### Core Protocol Visuals
+
 | State 1: Pre-Kinetic Accumulation | State 2: Thermal Equilibrium | State 3: Digital Energy Synergy |
 | :---: | :---: | :---: |
 | ![Logo](assets/logos/hmln_logo_main.png) | ![Banner](assets/twitter/hmln_twitter_banner.png) | ![Rebirth](assets/memes/hmln_rebirth_square.png) |

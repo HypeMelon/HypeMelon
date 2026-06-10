@@ -1,0 +1,26 @@
+New uploaded image identification for HypeMelon repository:
+
+1. file_0000000045dc7246a0963df414a34fea.png
+   Proposed name: tesla_hypemelon_energy_blueprint_lab.png
+   Description: Nikola Tesla in a laboratory/study setting with a green holographic watermelon energy blueprint, HypeMelon power core board, and financial revolution chart.
+
+2. file_00000000532c7246873a481ccfce2ac4.png
+   Proposed name: tesla_hmln_energy_core_manifestation.png
+   Description: Tesla-like figure holding a glowing watermelon energy core between Tesla coils, with HMLN Energy branding and growth chart.
+
+3. file_00000000710871f48dc7ef04529eafce.png
+   Proposed name: tesla_hmln_welcome_protocol_square.png
+   Description: Square-format welcome poster for HMLN Energy featuring a central glowing watermelon reactor and onboarding-style text.
+
+4. file_00000000bae87246a1e31f882e46a0e4.png
+   Proposed name: tesla_green_lightning_market_expansion.png
+   Description: Tesla-themed green lightning market campaign visual with multiple floating watermelon spheres and strong bullish branding.
+
+5. file_00000000c86c7246a86d0ab35f64a8e4.png
+   Proposed name: tesla_bear_market_energy_defense.png
+   Description: Tesla vs bear market scene with lightning strike, HypeMelon energy core, bearish beasts/FUD symbolism, and bullish candles.
+
+Integration plan:
+- Move all five files into /assets/tesla/
+- Update README.md to add a Tesla Visual Archive / Energy Visualization section
+- Keep naming professional and descriptive for GitHub readability
